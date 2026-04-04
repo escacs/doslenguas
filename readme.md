@@ -36,7 +36,7 @@ For inquiries, join our Discord server:
 
 [![Discord](https://img.shields.io/discord/YOUR_DISCORD_SERVER_ID?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/8gvBRsBDA3)
 
-Or click here: [Join our Discord Server](https://discord.gg/YOUR_INVITE_CODE)
+Or click here: [Join our Discord Server](https://discord.gg/8gvBRsBDA3)
 ---
 
 *This README was last updated on July 17, 2025*
