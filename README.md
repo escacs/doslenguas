@@ -43,6 +43,12 @@ A versatile exercise environment supporting various learning styles:
 - **Styling**: Vanilla [Tailwind CSS](https://tailwindcss.com/)
 - **Animations**: [Framer Motion](https://www.framer.com/motion/)
 - **Data Persistence**: Local JSON-based storage (perfect for lightweight, server-side persistence).
+---
+## 📄 License
 
+**Proprietary and Private.**  
+Copyright © 2026 DosLenguas. All rights reserved. No part of this project may be reproduced, distributed, or transmitted in any form or by any means.
 
-<p align="center">Made with ❤️ for the Conlang and Language Learning Community</p>
+---
+
+<p align="center">Made with ❤️ for the Conlang Community</p>
